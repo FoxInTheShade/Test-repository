@@ -1,2 +1,2 @@
 print ("Hello World")
-print (len(input()))
+print ("Your text has " + str(len(input())) + " simbols")
